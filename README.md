@@ -9,4 +9,4 @@ Se han limpiado y acondicionado los datos para su fácil tratamiento y se han su
 
 Se hizo una API para hacer peticiones al vuelo sobre cada uno de los datos de Europa por paises con el numero de personas contagiadas, fallecidas y vacunadas y de España igualmente por CC AA en sus respectivas colecciones También y para comprobar la correlación del desempleo con esos datos se ha cargado en la base de datos el desempleo por mes del Eurostat, agencia estadística de la Unión Europea
 
-por último se ha hecho un dashboard en "streamlit" a fin de presentar de forma amigable y con gráficos los datos al usuario.
+por último se ha hecho un dashboard en "streamlit" a fin de presentar los datos al usuario de forma amigable y con gráficos .
